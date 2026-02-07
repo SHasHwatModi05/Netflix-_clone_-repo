@@ -41,11 +41,16 @@ This project is a frontend web development exercise aimed at replicating the cor
 ## 📂 Project Structure
 
 Netflix-clone-repo/
+
 │── index.html
+
 │── style.css
+
 │── bg.jpg
+
 │── logo.svg
+
 │── favicon.ico
 
-## 📂 Project Structure
+
 
