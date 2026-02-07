@@ -10,7 +10,7 @@ body {
 }
 
 .main {
-    background-image: url("bg.jpg");
+    background-image: url("./bg.jpg");
     height: 90vh;
     position: relative;
     background-position: center center;
@@ -361,3 +361,4 @@ footer .questions {
     gap: 23px;
 
 }
+
