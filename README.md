@@ -7,7 +7,7 @@ This project focuses on recreating the modern UI/UX design of Netflix with respo
 
 ## 🌐 Live Demo
 
-🔗https://shashwatmodi05.github.io/Netflix-_clone_-repo/
+🔗garudaax.netlify.app
 
 ---
 
