@@ -7,7 +7,7 @@ This project focuses on recreating the modern UI/UX design of Netflix with respo
 
 ## 🌐 Live Demo
 
-🔗garudaax.netlify.app
+🔗https://garudaax.netlify.app/
 
 ---
 
